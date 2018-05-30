@@ -2,8 +2,8 @@ require 'pry'
 
 class String
 
-  def sentence?
-    
+  def sentence? |string|
+    if string 
   end
 
   def question?
